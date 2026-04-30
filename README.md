@@ -1,6 +1,6 @@
 # Zaventus Gestão
 
-![Marca Zaventus](assets/zaventus-marca.png)
+![Marca Zaventus](assets/zaventus-marca.jpeg)
 
 **Zaventus Gestão** é um sistema ERP web para centralizar rotinas comerciais, operacionais e financeiras em uma única plataforma. A solução foi pensada para pequenos e médios negócios que precisam controlar vendas, PDV, estoque, clientes, fornecedores, caixa, relatórios e configurações fiscais sem depender de planilhas separadas.
 

@@ -1,0 +1,21 @@
+# Arquivos temporários locais
+.chrome-profile/
+.chrome-profile-*/
+.tmp-html/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Backups e arquivos sensíveis não devem entrar neste repositório
+.env
+*.sql
+*.zip
+*.rar
+*.7z
+*.pem
+*.key
+*.pfx
+*.crt
+
